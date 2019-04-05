@@ -1,9 +1,9 @@
 **Projenin en güncel ve güvenli halini bu sayfadan indirebilirsiniz. Buranın dışında indirdiğiniz dosyalara güvenmeyin.**
 
-***Demo Linki:***http://istakip.aksoyhlc.net/
+**Demo Linki:** http://istakip.aksoyhlc.net/
 
-**E-Posta: aksoyhlc@gmail.com
-Şifre: 123**
+**E-Posta: aksoyhlc@gmail.com**
+**Şifre: 123**
 
 Yapmanız Gerekenler:
 =====================
